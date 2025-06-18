@@ -1,2 +1,2 @@
 # SLOP OS
-simple bootloader for education and research purposes 
+simple kernel for education and research purposes 
